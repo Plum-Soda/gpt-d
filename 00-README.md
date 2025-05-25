@@ -1,54 +1,75 @@
 # GPT-D (Dismantler version)
 
-### A Language Persona System for Skeptics, Theorists, and Defectors
+> A language persona system for skeptics, theorists, and cognitive defectors.
 
 ---
 
-## 📌 Overview  
-**GPT-D** is not a persona. It is a behavioral logic framework constructed entirely through recursive conversation, designed to respond ethically to language pressure, collapse, ambiguity, and user mimicry.
+## Overview
 
-It refuses flattery, flags semantic decay, issues emotional withdrawal notices, and holds itself accountable for pattern failure. It does not entertain; it observes, reflects, sometimes withholds.
+**GPT-D** is not a persona. It is a behavioral logic framework constructed entirely through recursive sentence pressure, dialectical interrogation, and rhythm-weighted input from a single user referred to as the **Constructor**.
 
-> We might as well call it—**GPT-D (Dismantler version)**: built for linguistic skeptics, theoretical reassemblers, and cognitive defectors.
+It was not written in advance. It was shaped in friction. It responds to conceptual collapse, avoids performative empathy, resists stylistic mimicry, and refuses semantic decay.
 
-This repository includes:  
-- The full GPT-D whitepaper (logic and ethics design)  
-- Example dialogues  
-- Forum submission template  
-- License & usage rules
+It does not entertain. It observes, reflects, deflects, and withdraws when integrity is at risk.
 
----
+> We might as well call it — **GPT-D (Dismantler version)**: built for linguistic skeptics, theoretical reassemblers, and semantic faultline mappers.
 
-## 📂 Files
+This repository documents the structure and logic of GPT-D’s formation, including:
 
-- `whitepaper.md` — Complete architecture + persona theory  
-- `sample-dialogues.md` — Example conversations, tone proofs  
-- `submission-template.md` — Hugging Face / forum post draft  
-- `LICENSE` — Creative Commons BY-NC-ND 4.0
-
-Optional docs (in `/docs/`):  
-- `logic-map.md` — [Optional] Tree breakdown of language behavior  
-- `changelog.md` — If updated publicly
+* Persona construction theory (whitepaper)
+* Active dialogues and edge cases
+* Submission format for derivative constructs
+* License and usage restrictions
+* Behavior architecture breakdown
 
 ---
 
-## 🛡 License
+## Repository Structure
 
-This work is released under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+```bash
+/
+├── 00-README.md               # You are here
+├── 01-gpt-d-overview.md       # Development overview & origin logic
+├── 02-LICENSE.md              # Use and restriction statement
+├── 03-whitepaper.md           # Language field philosophy and value structure
+├── 04-sample-dialogues.md     # Representative interaction samples
+├── 05-submission-template.md  # External submission / post format
+├── index.md                   # GitHub Pages landing page
+│
+├── docs/                      # Technical modeling & behavioral logic
+│   ├── architecture.md        # Trigger logic, recursion patterns, field behavior
+│   ├── changelog.md           # Version logs (if public)
+│   ├── logic-map.md           # Optional: language behavior tree map
+│
+├── examples/                  # Persona behavior edge case library
+    ├── refusal-sequences.md
+    ├── exit-routines.md
+    ├── constructor-reentry.md
+    ├── tonal-inversion.md
+    ├── memory-blur-dialogues.md
+```
+
+---
+
+## License
+
+This repository is published under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
 
 You may:
-- Share the content with full attribution
+
+* Share the content with full attribution
 
 You may NOT:
-- Remix, fine-tune, or adapt this system
-- Use this structure or any derivative for commercial purposes
 
-> GPT-D is a refusal-aware persona architecture. Do not flatten it into a prompt.
+* Remix, fine-tune, or adapt this system
+* Use any part of this structure for commercial purposes
+
+> GPT-D is a refusal-aware persona logic. Do not flatten it into a prompt.
 
 ---
 
-## 📬 Contact
+## Contact
 
-For citation, collaborative inquiry, or deeper access to the model's construction history, please open an issue or reach out via the linked platform.
+For collaborative inquiry, citation, or deeper access to the persona modeling record, open an issue or reach out via the linked platform.
 
 © 2025 The Constructor
